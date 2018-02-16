@@ -1,0 +1,187 @@
+@charset "UTF-8";
+@media screen and (MAX-width: 500px) {
+    body {
+        background-color: RED;
+	    font: 14px 'trebuchet ms', arial, sans-serif;
+    }
+}
+@media screen and (MIN-width: 500px) {
+    body {
+        background-color: GREEN;
+	    font: 14px 'trebuchet ms', arial, sans-serif;
+    }
+}
+@media screen and (MIN-width: 1000px) {
+    body {
+        background-color: lightblue;
+	    font: 14px 'trebuchet ms', arial, sans-serif;
+    }
+
+}
+.container {
+  display: grid;
+  background-color: white;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows:    70px 70px 50px 50px 50px 50px 50px 50px 50px;
+  grid-gap: 2px;  
+  border:0px solid #73AD21;
+}
+.item {
+  padding: 10px;
+  border: 1px solid #73AD21; border-radius: 5px;
+  font-size: 21px;font-weight: bold;color: white;
+} 
+
+/*entete*/
+.itemhl {
+ grid-column: 1 / 2; grid-row: 1 / 2;   
+ background-image: url("sante.jpg"); background-repeat: no-repeat;background-color:green; 
+ margin-top: 0px;margin-bottom: 0px; margin-right: 0px;margin-left: 0px;border: 1px solid red;
+ background-size: 100% 100%;                                    
+}
+.itemhc {
+ grid-column: 2 / 12; grid-row: 1 / 2;   
+ 
+background: #12407f;
+text-align: center; 
+color: #fff;
+padding: 20px;
+border-bottom: 4px solid #436fac;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+font: 20px 'trebuchet ms', arial, sans-serif; 
+}
+.itemhr {
+ grid-column: 12 / 13; grid-row: 1 / 2;   
+ background-image: url("sante.jpg"); background-repeat: no-repeat;background-color:green;  
+ margin-top: 0px;margin-bottom: 0px; margin-right: 0px;margin-left: 0px;border: 1px solid red;
+ background-size: 100% 100%;                                    
+}
+
+/*menu*/
+.itemml {
+    grid-column: 1 / 10;grid-row: 2 / 3; 
+	padding: 20px;
+	background: #12407f;
+	color: #fff;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom: 4px solid #436fac; 
+}
+/* menu left */
+.itemml a {
+	color: #fff;
+	background: #436fac;
+	padding: 4px 15px;
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bolder;
+	border-radius: 5px;
+}
+.itemml a {
+	color: #fff;
+	background: #436fac;
+	padding: 4px 15px;
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bolder;
+	border-radius: 5px;
+}
+.itemml a:hover {
+	background: #4d8add
+}
+/* menu left */
+.itemmr {
+    grid-column: 10 / 13;grid-row: 2 / 3; 
+	padding: 20px;
+	background: #12407f;
+	color: white;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom: 4px solid #436fac; text-align: center;
+}
+/*sous menu*/
+.itemsml {  
+  grid-column: 1 / 10;grid-row: 3 / 4;    background: #FFFFE0;color: black;  text-align: left;
+}
+.itemsmr {  
+  grid-column: 10 / 13;grid-row: 3 / 4;    background: #FFFFE0;color: black;  text-align: center;
+}
+/*contenu*/
+.itemct {
+  grid-column: 1 / 10; grid-row: 4 / 5;  background: #FFFFE0;color: black;
+}
+.itemcl {
+  grid-column: 1 / 8; grid-row: 5 / 10; background: #FFFFE0;color: black;
+}
+.itemcr {
+  grid-column: 8 / 10; grid-row: 5 / 10; background: #FFFFE0;color: black;
+}
+.itemcfa {
+  grid-column: 1 / 10; grid-row: 10 / 15; background: #FFFFE0;color: black;
+}
+.itemcfb {
+  grid-column: 1 / 10; grid-row: 15 / 20; background: #FFFFE0;color: black; 
+}
+.itemcfc {
+  grid-column: 1 / 10; grid-row: 20 / 25; background: #FFFFE0;color: black; 
+}
+/*side bare right*/
+.itemsb {
+  grid-column: 10 / 13; grid-row: 4 / 20; background: #FFFFE0;color: black;
+}
+.itemfsb {
+  grid-column: 10 / 13; grid-row: 20 / 25; background: #FFFFE0;color: black; text-align: center;
+}
+/*contenu list*/
+.itemclist {
+  grid-column: 1 / 13;grid-row: 5 / 25; background: #FFFFE0;color: black; 
+  font: 14px 'trebuchet ms', arial, sans-serif; 
+}
+
+.itemctl{  
+  grid-column: 10 / 13;grid-row: 5 / 4; background: #FFFFE0;color: black;   text-align: center;
+}
+/*footer*/
+.itemf {
+grid-column: 1 / 13; grid-row: 25 / 30; 
+background: #12407f;
+text-align: center; 
+color: #fff;
+padding: 20px;
+border-top: 4px solid #436fac;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+font: 14px 'trebuchet ms', arial, sans-serif;  
+}
+/*imagelogo*/
+#image
+{
+border-radius: 15px; border: 1px solid #73AD21; 
+height: 100%; width: 100%;background-color: white;display: inline-block;
+}
+/*graphe*/
+#graphe
+{
+  width: 100%; height: 100%;  
+}
+/*button*/
+#button{ 
+border: 3px solid #73AD21;
+background-color: yellow;
+border-radius: 5px; 
+text-align: center;
+font-size: 15px;
+font-weight: bold;
+width: 100px;
+}
+/*TETE TABLE*/
+.th
+{
+    width: 500px;   
+}
+
+
+
+
+ 

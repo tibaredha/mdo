@@ -1,0 +1,153 @@
+#regb {
+    float: right;
+    margin-top: 0px;
+	margin-left: 5px;
+	color: #fff;
+	background: red;
+	padding: 4px 15px;
+	text-decoration: none;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bolder;
+	border-radius: 5px;display: inline;width: 230px;
+}
+
+
+
+/** Forms */
+form {
+	font: 100% verdana,arial,sans-serif;
+}
+
+form label { 
+	display: block;
+	float: left; 
+	width: 150px; 
+	padding: 0; 
+	margin: 9px 0 0;
+	text-align: right; 
+}
+
+form input, form select {
+	width: auto;
+	margin: 5px 0 0 10px;
+	border: 1px solid gray;border-radius: 5px;
+	padding: 4px;
+}
+
+form input[type=submit]:hover {
+	cursor: pointer;
+	background: silver;
+}
+
+
+form br {clear: left;}
+
+hr {   width: 910px;margin-left: 5px;
+}
+
+#tabbed_box{
+margin: 0px auto 0px 220px;
+width: 650px;
+}
+.tabbed_box h4 {  
+    font-size: 18px;  
+    color:#2F4F6F; 
+    letter-spacing:-1px;  
+    margin-bottom:10px;  
+}  
+ 
+.tabbed_area {  
+    border: 1px solid #494e52;  
+    background-color: #fff;  
+    padding: 8px;      
+}  
+ul.tabs {  
+    margin: 0px; padding: 0px;  
+	margin-top: 5px;  
+    margin-bottom: 6px;  
+}  
+ul.tabs li {  
+    list-style: none;  
+    display: inline; 
+	
+}  
+ul.tabs li a {  
+    background-color: #464c54;  
+    color: #ffebb5;  
+    padding: 8px 14px 8px 14px;  
+    text-decoration: none;  
+    font-size: 9px;  
+    font-family: Verdana, Arial, Helvetica, sans-serif;  
+    font-weight: bold;  
+    text-transform: uppercase;  
+    border: 1px solid #464c54;   
+}  
+ul.tabs li a:hover {  
+    background-color: #2f343a;  
+    border-color: #2f343a;  
+}  
+ul.tabs li a.active {  
+    background-color: #ffffff;  
+    color: #282e32;  
+    border: 1px solid #464c54;   
+    border-bottom: 1px solid #ffffff;  
+}
+
+.content {  
+    background-color: #ffffff;  
+    padding: 10px;  
+    border: 1px solid #464c54;     
+}  
+#content_2, #content_3 , #content_4 { display: none; height: auto; clear: all;} 
+#table_1{ width: 200px; height: auto; clear: all;} 
+#viewer{float: right; width: 405px; height: auto; background-color: #ffffff;}
+#viewer1{float: right; width: 390px; height: auto; background-color: #3399CC;}
+
+.panier table
+{
+background-color: #ffffff; 
+}
+
+.panier table tr 
+{
+height:40px;
+}
+.panier table a 
+{
+color: #fff;
+padding: 4px 15px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+text-decoration: none;
+font-weight: bolder;
+text-align: center; 	
+background-color: #3399CC;
+}
+
+#demographie {
+    border: 1px solid black;
+    border-collapse: collapse;
+	float: center;
+}
+//**//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,100 @@
+TIBA Redha EULA (End User License Agreement)
+
+1. GENERAL.
+
+Notice to user:
+
+This End User License Agreement (EULA) is a CONTRACT between you (either an individual or a single entity) and TIBA Redha which covers your use of the software product and modules that accompanies this EULA and related software components, which may include associated media, printed materials, and "online" or electronic documentation. All such software and materials are referred to herein as the "Software Product." Throughout this EULA, WolveWare refers to TIBA Redha which is a legally incorporated company in algeria . A software license, issued to a designated user only by TIBA Redha or its authorized agents, is required for each user of the Software Product. If you do not agree to the terms of this EULA, then do not install or use the Software Product or the Software Product License. By explicitly accepting this EULA, however, or by installing, copying, downloading, accessing, or otherwise using the Software Product and/or Software Product License, you are acknowledging and agreeing to be bound by the following terms.
+
+YOU SHOULD CAREFULLY READ THE FOLLOWING TERMS AND CONDITIONS BEFORE USING THIS PRODUCT. IT CONTAINS SOFTWARE, THE USE OF WHICH IS LICENSED BY WOLVEWARE TO ITS CUSTOMERS FOR THEIR USE ONLY AS SET FORTH BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT, DO NOT USE THE SOFTWARE.
+
+USING ANY PART OF THE SOFTWARE INDICATES THAT YOU ACCEPT THESE TERMS.
+
+This license is for one (1) Installation on one (1) Computer/Server/IP/Domain/Website. Each license of the software product may additionally have limits imposed on the features and/or its use. These will be presented to you during your purchase of the software product and/or in other documentation and forms part of this EULA/contract/agreement.
+
+If you have purchased a license to the software product or modules in conjunction with any other product(s) or modules then you will also be bound by any and all licenses, restrictions, agreements, EULA's, and/or contracts for the other product(s) or modules.
+
+
+2. GRANT OF NON-EXCLUSIVE LICENSE.
+
+(a) Software Product License. The Software Product License, which is issued to a designated user, enables such designated user to use a single instance of the Software Product on a single computer system. Each user on a multi-user computer system who uses the Software Product requires an additional Software Product License. You may not modify or create derivative copies of the Software Product License.
+
+(b) Grant of License. Subject to a validly issued Software Product License, WolveWare grants to you the non-exclusive, non-transferable right for you to use the Software Product on a single computer running a validly licensed copy of the operating system for which the Software Product was designed. You may not modify or create derivative copies of the Software Product. All rights not expressly granted to you are retained by WolveWare.
+
+(c) Backup Copy: Software Product. You may make copies of Software Product as reasonably necessary for the use authorized above, including as needed for backup and/or archival purposes. No other copies may be made. Each copy must reproduce all copyright and other proprietary rights notices on or in the Software Product.
+
+(d) Backup Copy: Software Product License. You may install each Software Product License on a single computer system and make copies of the Software Product License as necessary only for backup and/or archival purposes. No other copies may be made. Each copy must reproduce all copyright and other proprietary rights notices on or in the Software Product License.
+
+
+3. INTELLECTUAL PROPERTY RIGHTS RESERVED BY WolveWare.
+
+The Software Product is protected by international copyright laws and treaties, as well as other intellectual property laws and treaties. You must not remove or alter any copyright notices on any copies of the Software Product. This Software Product copy is licensed, not sold. Furthermore, this EULA does not grant you any rights in connection with any trademarks or service marks of WolveWare. WolveWare reserves all intellectual property rights, including copyrights and trademark rights.
+
+
+4. NO RIGHT TO TRANSFER.
+
+You may not rent, lease, lend, sub-lease, or in any way distribute or transfer any rights in this EULA or the Software Product to third parties without written approval from WolveWare and subject to written agreement by the recipient of the terms of this EULA.
+
+
+5. PROHIBITION ON REVERSE ENGINEERING, DECOMPILATION AND DISASSEMBLY.
+
+You may not reverse engineer, decompile, defeat license encryption mechanisms, or disassemble the Software Product or Software Product License except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+
+6. SUPPORT SERVICES. 
+
+WolveWare may provide you with support services related to the Software Product. Use of any such support services is governed by the WolveWare and/or polices and programs described in "online" documentation and/or other materials provided by WolveWare. Use of any such support services and/or any supplemental software code or related materials that WolveWare provides to you as part of the support services is to be considered part of the Software Product and is subject to the terms and conditions of this EULA.
+
+With respect to any technical information you provide to WolveWare as part of the support services, we may use such information for our business purposes without restriction, including for product support, marketing, development and/or any other purpose as deemed reasonable by WolveWare. WolveWare will not use such technical information in a form that personally identifies you.
+
+WolveWare reserves the right to charge you for any and all support requests that WolveWare and/or its authorized agents deem to be excessive or a misuse of the support services provided to you under this EULA. WolveWare and its authorized agents will be the sole judge in what is deemed an excessive or a misuse of the support services, and any and all associated charges and fees.
+
+Abuse and/or threatening behaviour towards any WolveWare employees and/or authorized agents during the course of any support services provided to you by WolveWare will not be tolerated and WolveWare reserves the right to terminate this EULA under clause eleven (11) below.
+
+
+7. FURTHER RESTRICTIONS IMPOSED BY THIS EULA.
+
+By accepting the conditions of this EULA as defined in clause one (1) above, you agree and understand that:
+
+a) You may not offer or sell a hosting solution that includes a software license and/or provide hosting with the sole intent that users would use it to host a software installation without explicit written approval from WolveWare. Your right to sell hosting where users install or use a installation in due course is not affected.
+
+
+8. NO WARRANTIES.
+
+YOU ACCEPT THE SOFTWARE PRODUCT AND SOFTWARE PRODUCT LICENSE "AS IS", AND WolveWare (AND ITS THIRD PARTY SUPPLIERS AND LICENSORS) MAKE NO WARRANTY AS TO ITS USE, PERFORMANCE, OR OTHERWISE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WolveWare (AND ITS THIRD PARTY SUPPLIERS AND LICENSORS) DISCLAIM ALL OTHER REPRESENTATIONS, WARRANTIES, AND CONDITIONS, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE SOFTWARE PRODUCT REMAINS WITH YOU.
+
+
+9. LIMITATION OF LIABILITY. 
+
+THIS LIMITATION OF LIABILITY IS TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. IN NO EVENT SHALL WolveWare (OR ITS THIRD PARTY SUPPLIERS AND LICENSORS) BE LIABLE FOR ANY COSTS OF SUBSTITUTE PRODUCTS OR SERVICES, OR FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, OR LOSS OF BUSINESS INFORMATION) ARISING OUT OF THIS EULA OR THE USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT OR THE FAILURE TO PROVIDE SUPPORT SERVICES, EVEN IF WolveWare HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ANY CASE, WolveWare (AND ITS THIRD PARTY SUPPLIERS AND LICENSORS) ENTIRE LIABILITY ARISING OUT OF THIS EULA SHALL BE LIMITED TO THE GREATER OF THE AMOUNT ACTUALLY PAID BY YOU FOR THE SOFTWARE PRODUCT OR U.S. $5.00.
+
+
+10. GOVERNING LAW; ENTIRE AGREEMENT. 
+
+This EULA is governed by the laws of the State of Austria, excluding the application of its conflict of law rules. This EULA is the entire agreement between us and supersedes any other communications or advertising with respect to the Software Product.
+
+
+11. TERMINATION WITHOUT PREJUDICE TO ANY OTHER RIGHTS.
+
+WolveWare may terminate this EULA if you fail to comply with any clause, term or condition of this EULA. In such event, Licensee agrees to return to Licensor or to destroy all copies of the Software upon termination of the License. In the event this EULA is terminated under this clause eleven, WolveWare is under no obligation to refund you in whole or in part any fees paid to WolveWare previously or in the future.
+
+No discussion will be entertained by WolveWare and/or its authorized agents in the event this EULA is terminated under this clause eleven (11).
+
+
+12. UPDATES TO THIS EULA.
+
+WolveWare reserves the right to update and modify this EULA at any time and such changes will take affect fifteen (15) calendar days from the date they are published. Notification of changes and updates will be posted in the WolveWare shop, located at: http://shop.wolveware.com . It is the users responsibilty to check the WolveWare shop for any EULA updates on a regular basis. In the event you disagree with the updated EULA, you must notify WolveWare within fifteen (15) days, and this EULA will be terminated as detailed in clause eleven (11) above. If you do not notify WolveWare within fifteen (15) days after the notification of an updated EULA is posted, you are acknowledging and agreeing to be bound by the updated version of this EULA.
+
+This publication of the EULA is correct at time of writing (21.10.2010).
+
+
+13. CONTACT INFORMATION.
+
+If you have any questions about this EULA, or if you want to contact TIBA Redha for any reason, please direct all correspondence to:
+
+TIBA Redha
+djelfa 
+ainoussera
+algerie
+tel 0772718059
+or email: tibaredha@yahoo.fr
