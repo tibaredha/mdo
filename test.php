@@ -10,6 +10,6 @@
 	$success = file_put_contents($file, $data); 
 	}
 	//send request to ocr 
-
+//tibaredha
 	// print $success ? $file : 'Unable to save the file.';
 ?>
