@@ -21,6 +21,11 @@ echo '
  git commit -m "modification"  ou git commit -a -m "modification"  pour aller plus rapidement sans passer par le add . ou --all
  git log --oneline
  git log -p fichie
+ 
+ git checkout  4f2c294  permet de revenir en arriere  sans possibiliter de modification 
+ 
+ 
+ 
  git remote add origin https://github.com/tibaredha/mdo.git
  git push -u origin master
  username tibaredha@yahoo.fr   
