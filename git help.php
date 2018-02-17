@@ -50,7 +50,6 @@ echo '
  git checkout slave pour se mettre sur la branch 
  pour suprimer une brache  il fant utiliser  git branch -d  nom de la branch 
  git branch -d slave
- 
  git branch master
  git merge slave  pour rapatrier les modification a master
  
