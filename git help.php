@@ -53,8 +53,13 @@ echo '
  git branch master
  git merge slave  pour rapatrier les modification a master
  
+ branches type 
+ 1master
+ 2develop
  
- 
+ 3Feature branches  = fonctionalites
+ 4Release branches  =
+ 5Hotfix branches   = correctf branche
  
 ';
 ?>
