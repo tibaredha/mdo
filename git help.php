@@ -1,6 +1,11 @@
 <?PHP
 echo '
  1ere etape pc serveur
+ 
+ git clone adresse  http xxxx.git
+ 
+ ls   liste les different dossier
+ 
  modification du fichier
  git init
  git status
@@ -61,6 +66,11 @@ echo '
  3Feature branches  = fonctionalites
  4Release branches  =
  5Hotfix branches   = correctf branche
+ 
+ 
+ 
+ 
+ git 
  
 ';
 ?>
