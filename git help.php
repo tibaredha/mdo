@@ -65,7 +65,7 @@ echo '
  2develop
  
  3Feature branches  = fonctionalites
- 4Release branches  =
+ 4Release branches  = verssions
  5Hotfix branches   = correctf branche
  
  
