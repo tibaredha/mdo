@@ -40,10 +40,11 @@ echo '
  taper i pour insertion  message 
  How to exit the insert screen in mac terminal
  Press esc, then colon (:) and then enter on keyboard wq to save and exit
- If you wish to just quit, without saving, write q without w
+ If you wish to just quit, without saving, write wq  
  
  
- 
+ cat  nom du fichier  pour voir le fichier
+ vim  nom du fichier  pour editer le fichier
  
  
  git branch  slave  pour creer une brache
