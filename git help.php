@@ -2,9 +2,10 @@
 echo '
  1ere etape pc serveur
  
- git clone adresse  http xxxx.git
- 
+ git clone adresse  http xxxx.git  pour recuper un code 
  ls   liste les different dossier
+ 
+ touch tiba.php  creer un fichier 
  
  modification du fichier
  git init
