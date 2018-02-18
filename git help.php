@@ -11,7 +11,7 @@ echo '
  Il faut donc tout réinitialiser. pour git ignor marche 
  git rm -r --cached .
  git add .
- git commit -m ".gitignore est maintenant fonctionnel"
+ git commit -m ".gitignore est maintenant fonctionnel"   commit = enregistrer les modifications
  //*****************************//
  
  
@@ -49,7 +49,7 @@ echo '
  git branch  slave  pour creer une brache
  git checkout slave pour se mettre sur la branch 
  pour suprimer une brache  il fant utiliser  git branch -d  nom de la branch 
- git branch -d slave
+ git branch -d slave  or git branch -D slave  avec un grand d si avant  de merger 
  git branch master
  git merge slave  pour rapatrier les modification a master
  
