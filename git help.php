@@ -1,7 +1,7 @@
 <?PHP
 echo '
  1ere etape pc serveur
- 
+ tibaredha
  git clone adresse  http xxxx.git  pour recuper un code 
  ls   liste les different dossier
  
