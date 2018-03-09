@@ -72,6 +72,10 @@ echo '
  
  
  git 
+ si probleme avec git git ignore on applique les commandes suivante 
+ git rm -r --cached .
+ git add .
+ git commit -m ".gitignore est maintenant fonctionnel"
  
 ';
 ?>
